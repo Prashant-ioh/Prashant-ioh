@@ -4,7 +4,7 @@
 currently I am learning Rust, Substrate and Blockchain.</h4>
 
 <h3>🛠 Tech Skills</h3>
-  -> Rust | Substrate | .NET | C# | Windows Form </br>
+  -> Rust | Substrate | Python | .NET | Windows Form </br>
   -> 🛢 MySQL  
 
 <h3> 📌 Highlighted current activities: </h3>
