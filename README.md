@@ -3,10 +3,11 @@
 <h4>I am a software developer having 2+ year of experience in .Net, C#, Python. I have worked in different live project Toll lane application.
 currently I am learning Rust, Substrate and Blockchain.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant-ioh&label=Profile%20views&color=0e75b6&style=flat" alt="prashant-ioh" /> </p>
+<h3>🛠 Tech Skills</h3>
+  -> Rust | Substrate | .NET | C# | Windows Form </br>
+  -> 🛢 MySQL  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashant-ioh" alt="prashant-ioh" /></a> </p>
-
+<h3> 📌 Highlighted current activities: </h3>
 - 🌱 I’m currently learning **Blockchain, Substrate**
 
 - 📫 How to reach me **vikky4424@gmail.com**
