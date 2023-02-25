@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Mishra</h1>
 <h3 align="center">A passionate developer from India</h3>
 <h4>I am a software developer having 2+ year of experience in java,Rust, C#. I have worked in different live project and application.
-currently I am learning Rust, Substrate and Blockchain.</h4>
+currently I am learning Substrate, Smart Contract and Blockchain.</h4>
 
 <h3>🛠 Tech Skills</h3>
   -> Rust | Substrate | JavaScript | NodeJs </br>
