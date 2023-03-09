@@ -4,7 +4,7 @@
 currently I am learning Substrate, Smart Contract and Blockchain.</h4>
 
 <h3>🛠 Tech Skills</h3>
-  -> Rust | Substrate | JavaScript | NodeJs </br>
+  -> Rust | Substrate |Solidity | Ethereum | Java | JavaScript  </br>
   -> 🛢 MySQL  
 
 <h3> 📌 Highlighted current activities: </h3>
